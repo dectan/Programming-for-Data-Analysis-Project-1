@@ -1,9 +1,10 @@
 # Programming-for-Data-Analysis-Project-1
-<p>This repository is used for the project given during the Programming and scripting module on Higher Diploma in Data Analytics course from ATU.</p>
+<p>This repository is used for the project given during the PROGRAMMING FOR DATA ANALYSIS module on Higher Diploma in Data Analytics course from ATU.</p>
 
 <p>I have created Jupyter Notebook in Visual Studio Code, & I have added added comments to explain work, along with references<br>
-For this markup sheet, I used the following websites as guides.<br>
-#https://towardsdatascience.com/the-iris-dataset-a-little-bit-of-history-and-biology-fb4812f5a7b5
+
+<p>For this markup sheet, I used the following websites as guides.<br>
+
 <ol>
 <li><a href="#">https://www.markdownguide.org/basic-syntax</a></li>
 <li><a href="#">https://www.w3schools.io/file/markdown-cheatsheet/</a></li></p>
@@ -39,12 +40,12 @@ Specifically, in this project you should:</p>
 
 # How to run program #
 <ol>
-<li> My repository is @ <a href="#">https://github.com/dectan/Programming-for-Data-Analysis-Project-1</a></li>
-<li> My Github Ripository is called "Programming-for-Data-Analysis-Project-1</li>
+<li> My github repository is @ <a href="#">https://github.com/dectan/Programming-for-Data-Analysis-Project-1</a></li>
+<li> My github Ripository is called "Programming-for-Data-Analysis-Project-1</li>
 <li> This ripository contains a .gitignore file, a Jupyter notebook, and a readme file. </li>   
 <li> My Jupyter notebook is called "Project 1.ipynb"</li> 
 <li> There are no additional files required to run program as .csv is taken from website <a href="#">http://data.marine.ie/downloads/SmartBayIreland/GalwaySampleWeatherData.csv</a></li>
-<li> Libraries that need to be imported are contained in first cell of Kupyter notebook </li> 
+<li> Libraries that need to be imported are contained in first cell of Jupyter notebook </li> 
 <li> </li> 
 <li></li> 
 <li></li> 
