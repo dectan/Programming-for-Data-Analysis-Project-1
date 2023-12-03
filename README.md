@@ -1,6 +1,7 @@
 # Programming-for-Data-Analysis-Project-1
-<p>This repository is used for the project given during the Programming and scripting module on Higher Diploma in Data Analytics course from GMIT.</p>
-<p>I have created files in Visual Studio Code, & I have added added comments to explain work, along with references<br>
+<p>This repository is used for the project given during the Programming and scripting module on Higher Diploma in Data Analytics course from ATU.</p>
+
+<p>I have created Jupyter Notebook in Visual Studio Code, & I have added added comments to explain work, along with references<br>
 For this markup sheet, I used the following websites as guides.<br>
 #https://towardsdatascience.com/the-iris-dataset-a-little-bit-of-history-and-biology-fb4812f5a7b5
 <ol>
@@ -11,7 +12,7 @@ For this markup sheet, I used the following websites as guides.<br>
 # **Table of contents**
 * [Programming-for-Data-Analysis-Project-1](Programming-for-Data-Analysis-Project-1)
     1. [Introduction](#Introduction)
-    2. [About the Dateset](#About-the-Dateset)
+    2. [How to run program](#How-to-run-program)
     3. [Analysis](#Analysis)
     4. [Histogram](#Histogram)
     5. [Histogram Conclusion](#Histogram-Conclusion)
@@ -36,16 +37,14 @@ Specifically, in this project you should:</p>
 <li>Synthesise/simulate a data set as closely matching their properties as possible.</li>
 <li>Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.</li>
 
-
-
-
-<li><a href="#">https://github.com/dectan/Programming-for-Data-Analysis-Project-1</a></li>
 # How to run program #
 <ol>
-<li>my repository is @ <a href="#">https://github.com/dectan/Programming-for-Data-Analysis-Project-1</a></li>
-<li>Jupyter notebook is called "Programming-for-Data-Analysis-Project-1"</li> 
-<li>there are no additional files required to run program as .csv is taken from website</li>
-<li>Jupyter notebook is called "Programming-for-Data-Analysis-Project-1"</li> 
+<li> My repository is @ <a href="#">https://github.com/dectan/Programming-for-Data-Analysis-Project-1</a></li>
+<li> My Github Ripository is called "Programming-for-Data-Analysis-Project-1</li>
+<li> This ripository contains a .gitignore file, a Jupyter notebook, and a readme file. </li>   
+<li> My Jupyter notebook is called "Project 1.ipynb"</li> 
+<li> There are no additional files required to run program as .csv is taken from website href="#">http://data.marine.ie/downloads/SmartBayIreland/GalwaySampleWeatherData.csv</a></li>
+<li> Libraries that need to be imported are contained in first cell of Kupyter notebook </li> 
 <li></li> 
 <li></li> 
 <li></li> 
