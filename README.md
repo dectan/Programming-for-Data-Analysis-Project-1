@@ -14,18 +14,7 @@
 * [Programming-for-Data-Analysis-Project-1](Programming-for-Data-Analysis-Project-1)
     1. [Introduction](#Introduction)
     2. [How to run program](#How-to-run-program)
-    3. [Analysis](#Analysis)
-    4. [Histogram](#Histogram)
-    5. [Histogram Conclusion](#Histogram-Conclusion)
-    6. [Scatter](#Scatter) 
-    7. [Scatter plot Conclusion](#Scatter-Plot-Conclusion)
-    8. [Box Plots](#BoxPlots)
-    9. [Box Plot Conclusion](#Box-Plot-Conclusion)
-    10. [Pair Plot ](#PairPlot)
-    11. [PairPlotConclusion](#Pair-Plot-Conclusion)
-    12. [How to run program](#How-to-run-program)
-    13. [Conclusion](#Conclusion)
-    14. [Imported Libraries](#Imported-Libraries)
+    3. [Imported Libraries](#Imported-Libraries)
 
 # Introduction #
 <p>For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is
