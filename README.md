@@ -38,9 +38,6 @@ Specifically, in this project you should:</p>
 <li> There are no additional files required to run program as .csv is taken from website <a href="#">http://data.marine.ie/downloads/SmartBayIreland/GalwaySampleWeatherData.csv</a></li>
 <li> Libraries that need to be imported are contained in first cell of Jupyter notebook </li> 
 <li> *Run all*</li> 
-<li></li> 
-<li></li> 
-
 </ol>
 
 
@@ -59,8 +56,4 @@ Specifically, in this project you should:</p>
 <p> a python function that from scipy.stats that generates random numbers usinfg double weibull distribution</p>
 </ol>
 
-# References # 
-<ol>
 
-
-</ol>
