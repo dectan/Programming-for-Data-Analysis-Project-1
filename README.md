@@ -37,7 +37,7 @@ Specifically, in this project you should:</p>
 <li> My Jupyter notebook is called "Project 1.ipynb"</li> 
 <li> There are no additional files required to run program as .csv is taken from website <a href="#">http://data.marine.ie/downloads/SmartBayIreland/GalwaySampleWeatherData.csv</a></li>
 <li> Libraries that need to be imported are contained in first cell of Jupyter notebook </li> 
-<li> </li> 
+<li> *Run all*</li> 
 <li></li> 
 <li></li> 
 
